@@ -8,13 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junxian He"
+title                    : "HKUST NLP Group"
 title_separator          : "-"
-name                     : &name "Junxian He"
+name                     : &name "HKUST NLP Group"
 description              : &description "personal description"
 url                      : "https://hkustnlp.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mayrfung/hkustnlp.github.io"
+repository               : "hkustnlp/hkustnlp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junxian He"
+  name             : "HKUST NLP Group"
   name2            : "何俊贤"
   avatar           : "profile.jpg"
   bio              : "Assistant Professor at HKUST"
