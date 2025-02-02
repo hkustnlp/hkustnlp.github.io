@@ -2,32 +2,74 @@
   people :
     - name : Yangqiu Song
       github: 
-      url: "https://hyz17.github.io/"
+      url: "https://cse.hkust.edu.hk/~yqsong/"
       pic: "/images/members/yuzhen_huang.jpg"
       description : Associate Professor
     - name : Junxian He
-      url : "https://vicent0205.github.io/"
+      url : "https://jxhe.github.io/"
       pic: "/images/members/junteng_liu.jpg"
       description: Assistant Professor
       bio : factuality
     - name: Yi R. (May) Fung
-      url: "https://vpeterv.github.io/"
+      url: "https://mayrfung.github.io/"
       pic: "/images/members/wei_liu.jpg"
       description: PhD
       bio: Assistant Professor
       
-- group : PhD Students
+- group : Post-Doc and PhD Students
   people :
-    - name : Shiqi Chen
+    - name : Haoran Li
       url : "https://shiqichen17.github.io"
       pic: "/images/members/shiqi_chen.jpg"
-      description: PhD @ CityU
+      description: PostDoc
+      bio : factuality
+      
+    - name : Yuzhen Huang
+      url : "https://shiqichen17.github.io"
+      pic: "/images/members/shiqi_chen.jpg"
+      description: PhD
+      bio : factuality
+    - name : Junteng Liu
+      url : "https://shiqichen17.github.io"
+      pic: "/images/members/shiqi_chen.jpg"
+      description: PhD
+      bio : factuality
+    - name : Wei Liu
+      url : "https://shiqichen17.github.io"
+      pic: "/images/members/shiqi_chen.jpg"
+      description: PhD
+      bio : factuality
+    - name : Kashun Shum
+      url : "https://shiqichen17.github.io"
+      pic: "/images/members/shiqi_chen.jpg"
+      description: PhD
+      bio : factuality
+    - name : Jinghan Zhang
+      url : "https://shiqichen17.github.io"
+      pic: "/images/members/shiqi_chen.jpg"
+      description: PhD
+      bio : factuality
+    - name : Liangjun Zhong
+      url : "https://shiqichen17.github.io"
+      pic: "/images/members/shiqi_chen.jpg"
+      description: PhD
+      bio : factuality
+      
+    - name : Zhitao He
+      url : "https://scholar.google.com/citations?hl=en&user=ULvoYXgAAAAJ"
+      pic: "/images/members/shiqi_chen.jpg"
+      description: PhD
+      bio : factuality
+    - name : Dadi Guo
+      url : "https://scholar.google.com/citations?user=5yHRd6kAAAAJ"
+      pic: "/images/members/shiqi_chen.jpg"
+      description: PhD
       bio : factuality
 
 - group : MPhil Students
   people :
-    - name : Shiqi Chen
-      url : "https://shiqichen17.github.io"
+    - name : Zhiyuan Fan
+      url : "https://zhiyuan.fan/"
       pic: "/images/members/shiqi_chen.jpg"
       description: PhD @ CityU
       bio : factuality
@@ -36,6 +78,14 @@
   people :
     - name : Shiqi Chen
       url : "https://shiqichen17.github.io"
+      pic: "/images/members/shiqi_chen.jpg"
+      description: PhD @ CityU
+      bio : factuality
+
+- group : Undergraduate Students
+  people :
+    - name : Yumeng Wang
+      url : "https://yumeng-10.github.io/"
       pic: "/images/members/shiqi_chen.jpg"
       description: PhD @ CityU
       bio : factuality
