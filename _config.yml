@@ -82,14 +82,14 @@ analytics:
 # Site Author
 author:
   name             : "HKUST NLP Group"
-  name2            : "何俊贤"
+  name2            : "香港科技大学 NLP组"
   avatar           : "profile.jpg"
   bio              : "Assistant Professor at HKUST"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BIFGeoUAAAAJ&hl=en"
-  email            : junxianh@cse.ust.hk
+  #email            : junxianh@cse.ust.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
