@@ -15,7 +15,7 @@ Welcome to the **Hong Kong University of Science and Technology Natural Language
 
 ### 🚩 <span style="color:red">Prospective Students:</span>
 
-We are actively recruiting students for our PhD, MPhil, and intern positions in 2025. HKUST undergraduates are also welcome to take an independent study course with us. **Apply via <a href="https://forms.gle/S6fe7xoAxuHwV4VC6" target="_blank"><b>this form</b></a> to join us!**
+We are actively recruiting students for our PhD, MPhil, and intern positions in 2025. HKUST undergraduates are also welcome to take an independent study course with us. **Apply via <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGGTzrU0UzI220eJo8UGXeBPAYT7C8t08ar6Lu1Rzb_9TVFw/viewform?usp=sharing" target="_blank"><b>this form</b></a> to join us!**
 
 ## 📣 <span style="color:red">News</span>
 
