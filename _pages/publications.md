@@ -19,6 +19,7 @@ ACL 2024. [[arxiv]](https://aclanthology.org/2024.acl-long.4.pdf) [[github]](htt
 **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**  
 Wei Fan\*, Haoran Li\*, Zheye Deng, Weiqi Wang, Yangqiu Song
 EMNLP 2024. [[arxiv]](https://arxiv.org/pdf/2406.11149) [[github]](https://github.com/HKUST-KnowComp/GoldCoin)
+
 <span style="color:red"><i>Outstanding Paper</i></span>
 
 **Acquiring and modeling abstract commonsense knowledge via conceptualization**  
@@ -41,6 +42,7 @@ Preprint 2024. [[arxiv]](https://arxiv.org/abs/2410.17195)
 **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**  
 Chang Ma\*, Junlei Zhang\*, Zhihao Zhu\*, Cheng Yang\*, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, Junxian He
 Preprint 2024. [[arxiv]](https://arxiv.org/abs/2401.13178) [[github]](https://github.com/hkust-nlp/AgentBoard)
+
 <span style="color:red"><i>Oral</i></span>
 
 **DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving**  
