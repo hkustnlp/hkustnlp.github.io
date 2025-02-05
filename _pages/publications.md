@@ -10,10 +10,6 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
-**CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model**  
-Yumeng Wang, Zhiyuan Fan, Qingyun Wang, May Fung, Heng Ji<br>
-NAACL 2025. [[arxiv]](https://arxiv.org/pdf/2501.18457) [[github]](https://github.com/Alexwwwwww/CALM)
-
 **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory**  
 Wei Fan\*, Haoran Li\*, Zheye Deng, Weiqi Wang, Yangqiu Song<br>
 EMNLP 2024. [[arxiv]](https://arxiv.org/pdf/2406.11149) [[github]](https://github.com/HKUST-KnowComp/GoldCoin)  
@@ -32,7 +28,9 @@ Artificial Intelligence 2024. [[arxiv]](https://www.sciencedirect.com/science/ar
 Yuzhen Huang\*, Yuzhuo Bai\*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He<br>
 NeurIPS 2023. [[arxiv]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c6ec1844bec96d6d32ae95ae694e23d8-Paper-Datasets_and_Benchmarks.pdf) [[github]](https://github.com/hkust-nlp/ceval)
 
-
+**CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model**  
+Yumeng Wang, Zhiyuan Fan, Qingyun Wang, May Fung, Heng Ji<br>
+NAACL 2025. [[arxiv]](https://arxiv.org/pdf/2501.18457) [[github]](https://github.com/Alexwwwwww/CALM)
 
 
 <!-- ----- -->
